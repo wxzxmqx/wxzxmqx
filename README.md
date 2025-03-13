@@ -1,7 +1,7 @@
-    <div class="row" style="display: flex">
-        <h1 style="margin-right: 2rem">Hi there, I'm Serhii! 👋</h1>
-        <img src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif" style="width: 10%">
-    </div>
+<div class="row" style="display: flex">
+    <h1 style="margin-right: 2rem">Hi there, I'm Serhii! 👋</h1>
+    <img src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif" style="width: 10%">
+</div>
 <p>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
