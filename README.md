@@ -22,6 +22,6 @@ console.log(`🤝 Open to collaboration: ${aboutMe.openToCollaboration}`);
 
 ## 📫 Get in Touch
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/wxzxmqx/)
-- Telegram: [@yourusername](https://t.me/wxzxmqx)
-- Email: [your.email@example.com](mailto:sm.yatsunenko@gmail.com)
+- LinkedIn: [wxzxmqx](https://www.linkedin.com/in/wxzxmqx/)
+- Telegram: [@wxzxmqx](https://t.me/wxzxmqx)
+- Email: [sm.yatsunenko@gmail.com](mailto:sm.yatsunenko@gmail.com)
