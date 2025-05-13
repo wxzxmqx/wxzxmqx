@@ -7,9 +7,9 @@ I'm a first-year CS student passionate about web development, clean code, and so
 const aboutMe = {
   name: "First-year CS student",
   location: "Germany 🇩🇪",
-  languages: ["HTML", "CSS3", "JavaScript", "Python", "Java"],
-  tools: ["Git", "Docker", "Linux", "Figma", "Bash"],
-  currentlyLearning: ["JavaScript", "Docker", "Git", "Java"],
+  languages: ["HTML", "CSS3", "JavaScript", "Python"],
+  tools: ["Git", "Linux", "Figma", "Bash"],
+  currentlyLearning: ["JavaScript", "Git"],
   openToCollaboration: true,
   funFact: "I enjoy debugging more than writing new code 🐛"
 };
